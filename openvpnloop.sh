@@ -5,3 +5,4 @@ while [ "$i" -le 101 ]; do
 	echo "OpenVpn Start"
 	sleep 5
 done
+echo "Done"
